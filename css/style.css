@@ -540,6 +540,11 @@ a:hover {
 	background:#1BBD36;
 	padding:15px 22px;
 }
+.credits {
+  float: left;
+  margin: 0px;
+  color: #ffffff;
+}
 
 ul.social-network {
 	list-style:none;
@@ -1190,4 +1195,9 @@ a.scrollup:hover{
 	opacity:1;
 	background-color:#ddd;
 	color:#1BBD36;
+}
+
+.img-crs {
+  height: 305px;
+  width: auto;
 }
