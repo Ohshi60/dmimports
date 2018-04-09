@@ -322,7 +322,7 @@ a:hover {
 }
 
 #partner h2 {
-  color: #fff;
+  color: #000000;
   font-size:30px;
   font-weight:600;
 }
@@ -341,7 +341,7 @@ a:hover {
 
 .partners ul li{
   display: inline-block;
-  float: left;
+  /*float: left;*/
   width: 20%;
 }
 
