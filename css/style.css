@@ -311,7 +311,7 @@ a:hover {
 }
 
 #partner {
-  background: url(../images/partners/partner_bg.png) 50% 50% no-repeat;
+  background: url(../images/partners/miu.jpg) 50% 50% no-repeat;
   background-size: cover;
 }
 
@@ -1200,5 +1200,5 @@ a.scrollup:hover{
 #img-crs {
   height: 305px;
   width: auto;
-  padding: 20px; 
+  padding: 20px;
 }
