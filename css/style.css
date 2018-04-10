@@ -6,6 +6,7 @@
 */
 
 /* ==== Google font ==== */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600);
 @import url('font-awesome.css');
 /* ==== overwrite bootstrap standard ==== */
@@ -15,7 +16,7 @@
 
 body {
 	font-family:'Open Sans', Arial, sans-serif;
-	font-size:14px;
+	font-size:20px;
 	font-weight:300;
 	line-height:1.6em;
 	color:#fff;
@@ -30,7 +31,7 @@ hi,h2,h3,h4,h5,h6 {
 
 p {
 	color:#333;
-	font-size:13px;
+	font-size:16px;
 }
 a {
     text-decoration:none;
@@ -394,6 +395,12 @@ a:hover {
 	font-weight:700;
 }
 
+/*.about p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+}
+*/
 .skill h2{
 	margin-top:-10px;
 	margin-bottom: 25px;
@@ -545,7 +552,13 @@ a:hover {
   margin: 0px;
   color: #ffffff;
 }
-
+/*
+.credits p{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+}
+*/
 ul.social-network {
 	list-style:none;
 	margin-top:20px;
