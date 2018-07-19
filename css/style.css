@@ -15,11 +15,10 @@
 
 
 body {
-	font-family:'Open Sans', Arial, sans-serif;
-	font-size:20px;
-	font-weight:300;
-	line-height:1.6em;
-	color:#fff;
+	font-family: 'Nunito';
+	font-size: 17px;
+	line-height: 1.6;
+	color: #333;
 	background-color:#fff;
 	overflow-x:hidden;
 }
@@ -1220,12 +1219,7 @@ a.scrollup:hover{
 }
 
 
-body {
-  font-family: 'Nunito';
-  font-size: 17px;
-  line-height: 1.6;
-  color: #333;
-}
+
 
 .hero-footer {
   padding-top: 20px;
